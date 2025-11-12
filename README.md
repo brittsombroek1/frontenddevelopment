@@ -39,12 +39,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   https://nl.gymshark.com/?gclsrc=aw.ds&gad_source=1&gad_campaignid=11606057178&gbraid=0AAAAADMZ0ipY1HEDlC4RrkfyULVjlXJVm&gclid=CjwKCAiA_dDIBhB6EiwAvzc1cIRZtsC6MY80rL1Vkeb1HVULKnOf0XEbEXTc1O6gpe7KZGHnrp0WvRoCrj8QAvD_BwE 
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Home-pagina  
+  <img src="readme-images/gymshark-1e-scherm" width="375px" alt="home-pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Producten pagina  
+  <img src="readme-images/gymshark-2e-scherm" width="375px" alt="producten pagina">
  
 </details>
 
