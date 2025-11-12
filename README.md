@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+  Britt Sombroek
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  Blauw
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+  Responsive
  
 </details>
 
@@ -36,7 +36,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  https://nl.gymshark.com/?gclsrc=aw.ds&gad_source=1&gad_campaignid=11606057178&gbraid=0AAAAADMZ0ipY1HEDlC4RrkfyULVjlXJVm&gclid=CjwKCAiA_dDIBhB6EiwAvzc1cIRZtsC6MY80rL1Vkeb1HVULKnOf0XEbEXTc1O6gpe7KZGHnrp0WvRoCrj8QAvD_BwE 
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
