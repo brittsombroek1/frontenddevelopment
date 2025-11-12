@@ -40,7 +40,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Home-pagina  
-  <img src="readme-images/gymshark-1e-scherm" width="375px" alt="home-pagina">
+  <img src="readme-images/gymshark-1e-scherm.jpg" width="375px" alt="home-pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Producten pagina  
