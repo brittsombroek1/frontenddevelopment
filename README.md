@@ -58,6 +58,29 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
 
+  Voor het onderdeel content zag ik dat de website van Gymshark niet echt gebruik maakte van simpele taal doordat ze af en toe wat Engelse kopjes tussendoor hebben. De buttons en links waren verder wel goed en beschrijvend.
+  
+  Voor global code heeft de pagina wel een lang attribuut en heeft elke pagina een unieke titel. Ook is viewport zoom niet uitgeschakeld.
+  
+  Voor keyboard maakt de website gebruik van focus door een zwarte omlijning wanneer je tabt. Dit past ook wel bij de layout.
+  
+  Voor mobile and touch heeft de website geen horizontale scroll en kan de site geroteerd worden. Dit kan nog wel verbeterd worden doordat de layout zo wordt aangepast is dat het niet fijn te gebruiken is als je je telefoon horizontaal houdt. Sommige knoppen zijn een beetje klein maar kunnen verder wel goed gebruikt worden.
+
+  Voor headings gebruikt de site wel h1, h2 etc. en heeft elke pagina ook maar 1 h1 maar de volgorde klopt niet helemaal doordat er ook af en toe een heading wordt overgeslagen. Bijvoorbeeld van h2 naar h4.
+
+  Voor lists gebruikt de website niet altijd list elementen.
+
+  Voor images gebruikt de website niet altijd een alt attribuut. De website bevat verder geen video's.
+
+  Voor controls heeft de website a elementen voor links die er meestal ook uitzien als links. Voor buttons wordt ook een button element gebruikt. De website bevat geen skip links.
+
+  Voor appearance heeft de website geen dark en light mode of high-contrast mode. De tekst kan vergroot worden en kleur is niet de enige manier waarmee informatie wordt overgebracht.
+
+  Voor animation heeft de websites wel wat animaties maar die zijn heel minimalistisch.
+
+  Voor color contrast is eigenlijk alles wel goed op deze website. Er wordt veel gebruik gemaakt van zwart en wit waardoor de website goed leesbaar is. De tekst die afbeeldingen overlapt is ook nog goed leesbaar.
+
+
 </details>
 
 
@@ -68,7 +91,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdownschets1.png" alt="breakdownschets homepagina">
 
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
@@ -77,7 +100,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
-
 
 
 
