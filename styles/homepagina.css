@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+}
+
+header {
+	display:grid;
+	grid-template-columns:1fr max-content 1fr;
+    max-width: 100%;
+	
+	align-items:center;
+}
+
+header p {
+	order:-2;
+	background-color:#40D9E4;
+    height: 3em;
+	margin:0;
+    left: 0;
+    right: 0;
+	
+	grid-column-start:1;
+	grid-column-end:4;
+    text-align: center;
+    align-items: center;
+    
+}
+
+header menu {
+	order:-1;
+	
+	margin:0;
+	padding:0;
+	list-style-type:"";
+	
+	display:flex;
+	gap:.5em;
+}
+
+header nav {
+	justify-self:end;
+    
+}
+
+header nav ul {
+	margin:0;
+	padding:0;
+	list-style-type:"";
+	
+	display:flex;
+	gap:.5em;
+}
+
+header p a {
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+}
+
+header > a {
+	font-size:3em;
+}
+
+section img {
+    max-width: 100%;
+}
+
+button {
+    border: none;
+    background-color: transparent;
+}
+
+
