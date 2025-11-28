@@ -1,3 +1,9 @@
+.anton-regular {
+  font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
 body {
     margin: 0;
 }
@@ -6,8 +12,8 @@ header {
 	display:grid;
 	grid-template-columns:1fr max-content 1fr;
     max-width: 100%;
-	
 	align-items:center;
+
 }
 
 header p {
@@ -60,13 +66,114 @@ header > a {
 	font-size:3em;
 }
 
-section img {
-    max-width: 100%;
-}
-
 button {
     border: none;
     background-color: transparent;
+}
+
+
+
+
+
+/* HERO SECTION */
+
+section:first-of-type  {
+	/* background-color: gold; */
+	display:grid;
+
+	grid-template-columns: 1em 2em max-content 1em 1fr 2em 1em;
+	grid-template-rows: 1fr max-content 2em max-content 2em;
+}
+
+section:first-of-type img {
+	display:block;
+	width: 100%;
+	position: relative;
+	/* margin-left: 3%; */
+	/* margin-right: 3%; */
+
+	grid-row-start:1;
+	grid-row-end:6;
+	grid-column-start: 2;
+	grid-column-end: 7;
+	
+}
+
+
+
+section:first-of-type h2 {
+	/* position: absolute; */
+	/* top: 80%; */
+	/* left: 10%; */
+	/* right: 10%; */
+	color:white; 
+	text-transform: uppercase;
+	font-family: "Anton", Arial, Helvetica, sans-serif;
+	font-size: 2.1rem;
+	margin:0;
+
+	grid-row-start:2;
+	grid-row-end:3;
+	grid-column-start:3;
+	grid-column-end: 6;
+
+	z-index: 1;
+
+}
+
+section:first-of-type a {
+	/* position: absolute; */
+	/* display: grid; */
+	/* grid-template-columns: 1fr 1fr; */
+	/* align-items: center; */
+	/* justify-content: center; */
+	/* gap: 2rem; */
+
+	color:rgb(255, 255, 255);
+	font-size: 1.6rem;
+	text-decoration: underline;
+
+		z-index: 1;
+}
+
+section a:first-of-type {
+	/* position: absolute; */
+	
+	
+	
+	/* top: 100%; */
+	/* left: 10%; */
+
+	grid-row-start:4;
+	grid-row-end:5;
+	grid-column-start:3;
+	grid-column-end: 4;
+
+}
+
+section a:nth-of-type(2) {
+	/* position: absolute;
+	color: rgb(255, 255, 255); */
+	/* text-decoration: underline; */
+	/* font-size: 1.6rem; */
+	/* top: 100%; */
+	/* left: 35%; */
+
+	grid-row-start:4;
+	grid-row-end:5;
+	grid-column-start:5;
+	grid-column-end: 6;
+
+}
+
+
+
+
+
+
+
+section:nth-of-type(2) h2:first-of-type {
+	margin-left: 4%;
 }
 
 
